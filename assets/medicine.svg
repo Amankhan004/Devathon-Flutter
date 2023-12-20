@@ -1,0 +1,21 @@
+<svg width="34" height="35" viewBox="0 0 34 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 21">
+<path id="Rectangle 17" d="M7.45465 14.2331C10.579 9.99653 22.5523 1.59157 26.7889 4.71597C31.0255 7.84036 25.9211 21.311 22.7967 25.5475L19.3154 30.2682C16.191 34.5048 10.2237 35.4064 5.98711 32.282C1.75051 29.1576 0.848898 23.1903 3.97329 18.9537L7.45465 14.2331Z" fill="url(#paint0_linear_1_118)"/>
+<g id="Subtract" filter="url(#filter0_b_1_118)">
+<path d="M27.746 2.77804C23.5094 -0.346354 17.5421 0.555258 14.4177 4.79185L8.76049 12.4629L24.1026 23.7773L29.7598 16.1063C32.8842 11.8697 31.9826 5.90243 27.746 2.77804Z" fill="white" fill-opacity="0.2"/>
+</g>
+<path id="Vector 2 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M15.6899 7.1567C17.8937 2.75347 22.2107 2.29419 24.2411 3.12224C24.8299 3.36237 25.1126 4.03437 24.8725 4.6232C24.6323 5.21202 23.9603 5.49469 23.3715 5.25456C22.3658 4.84443 19.3723 4.9444 17.7492 8.18736C17.4646 8.75602 16.7729 8.9863 16.2042 8.70169C15.6356 8.41708 15.4053 7.72537 15.6899 7.1567Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_b_1_118" x="-16.2395" y="-24.083" width="72.8603" height="72.8603" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="12.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_118"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_118" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_118" x1="1.68379" y1="19.3707" x2="28.4089" y2="17.4386" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA80FF"/>
+<stop offset="1" stop-color="#A071FF" stop-opacity="0.65"/>
+</linearGradient>
+</defs>
+</svg>
